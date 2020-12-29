@@ -1,0 +1,20 @@
+h1 {
+    color: brown;
+}
+
+.hello{
+    background-color:rgba(255, 183, 183, 0.699);
+    display:flex;
+    justify-content:space-between;
+}
+
+.xyz{
+    display:flex;
+    justify-content:space-evenly
+}
+
+.abc{
+    display:flex;
+    justify-content:flex-end
+}
+
